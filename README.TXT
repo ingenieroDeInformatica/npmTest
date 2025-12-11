@@ -1,5 +1,15 @@
-open a new terminal, run node app.js
+Ensure that you have a .env file which contains:
+- BT_MERCHANT_ID
+- BT_PUBLIC_KEY
+- BT_PRIVATE_KEY
 
+open a new terminal, run node app.js
+You should find the website by typing localhost:3000 into Google.
+
+
+---------
+For Apple Pay
+---------
 On github, connected to Render, build command: yarn
 start command: node app.js
 
